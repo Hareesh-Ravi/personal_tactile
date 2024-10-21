@@ -16,7 +16,7 @@ We are looking for summer research interns to work on image generation, editing 
 5. [Xianghao Kong](https://kxh001.github.io/) - Image Generation as Scene Composition
 
 
-# Software
+# Research Projects / Industry
 
 Highlighting projects and softwares that I developed or led the development of.
 
@@ -126,7 +126,7 @@ hr{
 <br>
 <div class="row">
   <div class="column left">
-    <img src="./assets/images/firefly2_style.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/assets/images/firefly2_style.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
@@ -176,7 +176,7 @@ hr{
 </body>
 
 
-# Research
+# Research Publications
 
 <head>
 <style>
