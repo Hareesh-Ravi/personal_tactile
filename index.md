@@ -345,7 +345,7 @@ hr{
   <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
 <!--     <br><br> -->
-    <img src="./assets/images/aaai_2022.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/aaai_2021.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
