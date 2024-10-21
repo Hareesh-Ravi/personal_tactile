@@ -100,7 +100,7 @@ hr{
   <div class="column left">
 <!--     <h2>Enhancing Controllability of Diffusion Models</h2> -->
 <!--     <br><br> -->
-    <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:10%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -130,7 +130,7 @@ hr{
   <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
 <!--     <br><br> -->
-    <img src="/img/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/img/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:10%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -156,7 +156,7 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
   <div class="column left">
 <!--     <h2>AESOP</h2>
     <br><br> -->
-    <img src="/img/aesop_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/img/aesop_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:10%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
