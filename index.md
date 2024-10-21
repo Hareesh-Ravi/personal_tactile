@@ -98,16 +98,17 @@ hr{
 <body>
 <div class="row">
   <div class="column left">
-    <h2>PREDITOR</h2>
+<!--     <h2>PREDITOR</h2> -->
     <br><br>
     <img src="/img/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
+        <h2>PREDITOR: Tect Guided Image Editing with Diffusion Prior</h2>
 <!--       We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. Our architecture consists of a 
 diffusion prior model that generates CLIP image embedding conditioned on a text prompt and a custom Latent Diffusion Model trained to generate images conditioned on CLIP image embedding. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. We combine this with structure preserving edits on the image decoder using existing approaches such as reverse DDIM to perform text guided image editing. Our approach, PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines qualitatively and quantitatively.  -->
-        We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines. 
-    </font></div>
+<!--         We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines.  -->
+    </div>
   <div>
   <br>
     <div font size="2">
@@ -115,7 +116,7 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
       <a href="" target="_blank"><button class="btn code">code</button></a>
       <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn bibtex">bibtex</button></a>
       <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn arxiv">arxiv</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 <br>
@@ -129,7 +130,7 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
   <div class="column right">
     <div align="justify" font size="2">
        We train a model conditioned on two latent codes, a spatial content mask and a flattened style embedding relying on the inductive bias of the progressive denoising process of diffusion models to enhance controllability via feature disentanglement. We propose a generalized composable diffusion formulation to break conditional independence and a timestep scheduling for improving realism.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
@@ -137,7 +138,7 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
       <a href="" target="_blank"><button class="btn code">code</button></a>
       <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
       <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 <br>
@@ -155,7 +156,7 @@ enabling a broad range of creative expression. Using AESOP, we propose foundatio
 of story cloze tests, to better measure the creative and causal reasoning ability required for visual storytelling. We further develop a 
 generalized story completion framework that models stories as the co-evolution of visual and textual concepts. We benchmark the proposed 
 approach with human baselines and evaluate using comprehensive qualitative and quantitative metrics.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
@@ -163,7 +164,7 @@ approach with human baselines and evaluate using comprehensive qualitative and q
       <a href="" target="_blank"><button class="btn code">code</button></a>
       <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn bibtex">bibtex</button></a>
       <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf" target="_blank"><button class="btn arxiv">arxiv</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 <br>
@@ -182,7 +183,7 @@ images of any length. We introduce a novel many-to-many dataset created by align
 coherent sequence of images sampled from video clips. An end-to-end encoder-decoder neural architecture is proposed that sequentially 
 retrieves a coherent sequence of images given an input story. User studies show the applicability of the proposed task and dataset 
 and reveal that the illustrations generated by the proposed model are comparable to the ground truth.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
@@ -190,7 +191,7 @@ and reveal that the illustrations generated by the proposed model are comparable
       <a href="" target="_blank"><button class="btn code">code</button></a>
       <a href="" target="_blank"><button class="btn bibtex">bibtex</button></a>
       <a href="" target="_blank"><button class="btn arxiv">arxiv</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 <br>
@@ -207,14 +208,14 @@ and reveal that the illustrations generated by the proposed model are comparable
       characterized by a 3-tuple including type of the event, user cluster id and the time stamp of the event. The three tasks are
       trained simultaneously. Social structure of Github is further modelled by automatically learning graph based representation for each 
       repository. The effectiveness of the proposed technique is evaluated using an array of metrics.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
       <a href="https://arxiv.org/abs/2010.04366" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="https://github.com/hongluzhou/GitEvolve" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/gitevolve_arxiv.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 <br>
@@ -233,14 +234,14 @@ and reveal that the illustrations generated by the proposed model are comparable
       a representation for the input story and use it to retrieve an ordered set of images from a dataset. 
       In its core, the model is designed to explicitly model coherence between sentences in a story 
       optimized over sequential order embedding based loss function. The performance is qualitatively and quantitatively evaluated.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
       <a href="http://http://openaccess.thecvf.com/content_cvpr_2018/papers/Ravi_Show_Me_a_CVPR_2018_paper.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="https://github.com/Hareesh-Ravi/Show-Me-A-Story" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/showMeAStory_bib.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 </div>
@@ -259,14 +260,14 @@ and reveal that the illustrations generated by the proposed model are comparable
      popular image manipulation operations such as median filtering and contrast enhancement. Through a series of experiments, 
      we prove that the proposed algorithm canseverely degrade the performance of median filtering and contrast enhancement detectors. 
      The proposedalgorithm also outperforms popular anti-forensic algorithms.
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
       <a href="https://www.sciencedirect.com/science/article/pii/S1047320319303037" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="https://github.com/Hareesh-Ravi/" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/ace_jvci_bib.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 </div>
@@ -283,14 +284,14 @@ and reveal that the illustrations generated by the proposed model are comparable
       tampering using operations like filtering, compression and/or format conversion to suppress forgery artifacts. We propose an 
       algorithm to detect if a given image has undergone filtering based enhancement irrespective of the format of image or the type
       of filter applied using spatial domain quantization noise. 
-    </font></div>
+    </div>
   <div>
   <br>
     <div font size="2">
       <a href="https://drive.google.com/open?id=0B5F7NyiocdXvWHNvN1A5RnZMaE0" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="https://github.com/Hareesh-Ravi/Image-Filtering-Detection" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/icip_2015_bib.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
-    </font></div>
+    </div>
   <hr>
   </div>
 </div>
