@@ -13,15 +13,15 @@ We are looking for summer research interns to work on text to image generation, 
 <br>
 <br>
 - 2024  
-    - [Maitreya Jitendra Patel](https://maitreyapatel.com/) (ASU) - Disentangled Representation Learning
-    - [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) (Rutgers) - Object Centric Representation Learning
-    - [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) (TU Darmstadt) - Text to Image Generation
-    - [Xianghao Kong](https://kxh001.github.io/) (UC Riverside) - Image Generation as Scene Composition
+    [Maitreya Jitendra Patel](https://maitreyapatel.com/) (ASU) - Disentangled Representation Learning  
+    [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) (Rutgers) - Object Centric Representation Learning  
+    [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) (TU Darmstadt) - Text to Image Generation  
+    [Xianghao Kong](https://kxh001.github.io/) (UC Riverside) - Image Generation as Scene Composition  
 <br>
 <br>
 
 - 2023  
-    - [Wonwoong Cho](https://wonwoongcho.github.io/) (Purdue) - Controllability of Diffusion Models (ECCV 2024)  
+    [Wonwoong Cho](https://wonwoongcho.github.io/) (Purdue) - Controllability of Diffusion Models (ECCV 2024)  
 <br>
 <br>
 <br>
