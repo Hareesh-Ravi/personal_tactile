@@ -104,7 +104,9 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-      We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. Our architecture consists of a diffusion prior model that generates CLIP image embedding conditioned on a text prompt and a custom Latent Diffusion Model trained to generate images conditioned on CLIP image embedding. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. We combine this with structure preserving edits on the image decoder using existing approaches such as reverse DDIM to perform text guided image editing. Our approach, PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines qualitatively and quantitatively. 
+<!--       We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. Our architecture consists of a 
+diffusion prior model that generates CLIP image embedding conditioned on a text prompt and a custom Latent Diffusion Model trained to generate images conditioned on CLIP image embedding. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. We combine this with structure preserving edits on the image decoder using existing approaches such as reverse DDIM to perform text guided image editing. Our approach, PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines qualitatively and quantitatively.  -->
+        We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines. 
     </font></div>
   <div>
   <br>
@@ -126,12 +128,12 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-       Inspired by techniques based on the latent space of GAN models for image manipulation, we propose to train a diffusion model conditioned on two latent codes, a spatial content mask and a flattened style embedding. We rely on the inductive bias of the progressive denoising process of diffusion models to encode pose/layout information in the spatial structure mask and semantic/style information in the style code. We extend the sampling technique from composable diffusion models to allow for some dependence between conditional inputs. This improves the quality of the generations significantly while also providing control over the amount of guidance from each latent code separately as well as from their joint distribution.
+       We train a model conditioned on two latent codes, a spatial content mask and a flattened style embedding relying on the inductive bias of the progressive denoising process of diffusion models to enhance controllability via feature disentanglement. We propose a generalized composable diffusion formulation to break conditional independence and a timestep scheduling for improving realism.
     </font></div>
   <div>
   <br>
     <div font size="2">
-      <a href="https://arxiv.org/pdf/2302.14368.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
+      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05452.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="" target="_blank"><button class="btn code">code</button></a>
       <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
       <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
