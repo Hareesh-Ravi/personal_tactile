@@ -2,7 +2,8 @@
 layout: default
 ---
 
-![image](./assets/images/avatar.png) 
+<!-- ![image](./assets/images/avatar.png)  -->
+<img src="/img/avatar.png" border="0" height="200" width="180" alt="avatar" align="left" style="border: none; float: left; margin: 40px 40px 100px 20px;">
 
 I am a Senior Applied Research Scientist at Adobe's Applied Research team working on language-vision research and Generative AI. I completed my PhD from the [CS](https://www.cs.rutgers.edu/) department at the [Intelligent Visual Interfaces](https://ivi.cs.rutgers.edu/) lab in [Rutgers University](http://newbrunswick.rutgers.edu/). My PhD thesis was on Multimodal Story Comprehension, under the supervision of [Dr. Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) and [Dr. Gerard De Melo](http://gerard.demelo.org/). My research interests are on joint understanding of images/videos and abstract/narrative text with applications to multimodal story comprehension. Specificaly, story illustration, visual storytelling, image captioning and text-to-image retreival/generation. Recently, I have been working on Diffusion Models for Image generation and editing.
 
