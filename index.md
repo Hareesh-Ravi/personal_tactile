@@ -98,13 +98,44 @@ hr{
 <body>
 <div class="row">
   <div class="column left">
+<!--     <h2>Enhancing Controllability of Diffusion Models</h2> -->
+<!--     <br><br> -->
+    <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2">
+        <h3>Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods</h3>
+        <br>
+        <a href="https://wonwoongcho.github.io/" target="_blank">Wonwoong Cho</a>, 
+        <strong>Hareesh Ravi</strong>,
+        <a href="https://www.linkedin.com/in/midhun-harikumar-9574b524/" target="_blank">Midhun Harikumar</a>,
+        <a href="https://www.linkedin.com/in/vinh-khuc-3390a52a/" target="_blank">Vinh Khuc</a>,
+        <a href="https://krsingh.cs.ucdavis.edu/" target="_blank">Krishna Kumar Singh</a>,
+        <a href="https://scholar.google.com/citations?user=jN2Y51YAAAAJ&hl=en&oi=ao" target="_blank">Jingwan Lu</a>,
+        <a href="https://www.davidinouye.com/" target="_blank">David I. Inouye</a>,
+        <a href="https://www.linkedin.com/in/kaleajinkya/" target="_blank">Ajinkya Kale</a>
+        <br>
+        ECCV 2024
+        <br>
+        <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05452.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
+        <a href="" target="_blank"><button class="btn code">code</button></a>
+        <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
+        <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
-    <br><br>
+<!--     <br><br> -->
     <img src="/img/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-        <h2>PREDITOR: Tect Guided Image Editing with Diffusion Prior</h2>
+        <h3>PREDITOR: Text Guided Image Editing with Diffusion Prior</h3>
+        
 <!--       We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. Our architecture consists of a 
 diffusion prior model that generates CLIP image embedding conditioned on a text prompt and a custom Latent Diffusion Model trained to generate images conditioned on CLIP image embedding. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. We combine this with structure preserving edits on the image decoder using existing approaches such as reverse DDIM to perform text guided image editing. Our approach, PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines qualitatively and quantitatively.  -->
 <!--         We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines.  -->
@@ -123,39 +154,18 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
 </div>
 <div class="row">
   <div class="column left">
-    <h2>Enhancing Controllability of Diffusion Models</h2>
-    <br><br>
-    <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
-  </div>
-  <div class="column right">
-    <div align="justify" font size="2">
-       We train a model conditioned on two latent codes, a spatial content mask and a flattened style embedding relying on the inductive bias of the progressive denoising process of diffusion models to enhance controllability via feature disentanglement. We propose a generalized composable diffusion formulation to break conditional independence and a timestep scheduling for improving realism.
-    </div>
-  <div>
-  <br>
-    <div font size="2">
-      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05452.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
-      <a href="" target="_blank"><button class="btn code">code</button></a>
-      <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
-      <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
-    </div>
-  <hr>
-  </div>
-<br>
-</div>
-<div class="row">
-  <div class="column left">
-    <h2>AESOP</h2>
-    <br><br>
+<!--     <h2>AESOP</h2>
+    <br><br> -->
     <img src="/img/aesop_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-      We introduce AESOP: a new dataset that captures the creative process associated with visual storytelling. Visual panels are composed of clip-art objects with specific attributes 
+        <h3>AESOP: Abstract Encoding of Storied Objects and Pictures</h3>
+<!--       We introduce AESOP: a new dataset that captures the creative process associated with visual storytelling. Visual panels are composed of clip-art objects with specific attributes 
 enabling a broad range of creative expression. Using AESOP, we propose foundational storytelling tasks that are generative variants 
 of story cloze tests, to better measure the creative and causal reasoning ability required for visual storytelling. We further develop a 
 generalized story completion framework that models stories as the co-evolution of visual and textual concepts. We benchmark the proposed 
-approach with human baselines and evaluate using comprehensive qualitative and quantitative metrics.
+approach with human baselines and evaluate using comprehensive qualitative and quantitative metrics. -->
     </div>
   <div>
   <br>
