@@ -5,12 +5,175 @@ layout: default
 <!-- ![image](./assets/images/avatar.png)  -->
 <!-- I am a Senior Applied Research Scientist at Adobe's Applied Research team working on language-vision research and Generative AI. I completed my PhD from the [CS](https://www.cs.rutgers.edu/) department at the [Intelligent Visual Interfaces](https://ivi.cs.rutgers.edu/) lab in [Rutgers University](http://newbrunswick.rutgers.edu/). My PhD thesis was on Multimodal Story Comprehension, under the supervision of [Dr. Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) and [Dr. Gerard De Melo](http://gerard.demelo.org/). My research interests are on joint understanding of images/videos and abstract/narrative text with applications to multimodal story comprehension. Specificaly, story illustration, visual storytelling, image captioning and text-to-image retreival/generation. Recently, I have been working on Diffusion Models for Image generation and editing.
  -->
-We are looking for summer research interns to work on image generation, editing problems. Reach to mevia email or linkedin if you are interested with your CV. 
+# Internships
+
+We are looking for summer research interns to work on image generation, editing problems. Reach to mevia email or linkedin if you are interested with your CV. Here is a list of current and past summer interns
+
+1. [Wonwoong Cho](https://wonwoongcho.github.io/) - Controllability of Diffusion Models (ECCV 2024)
+2. [Maitreya Jitendra Patel](https://maitreyapatel.com/) - Disentangled Representation Learning
+3. [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) - Object Centric Representation Learning
+4. [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) - Text to Image Generation
+5. [Xianghao Kong](https://kxh001.github.io/) - Image Generation as Scene Composition
 
 
 # Software
 
-Numerous works of mine have gone into Adobe's products. Here are some selected 
+Highlighting projects and softwares that I developed or led the development of.
+
+<head>
+<style>
+hr{
+    height: 3px;
+    background-color: #E9E9E9;
+    border: none;
+}
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.btn {
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+  padding: 2px 4px;
+  text-align: center;
+  display: inline-block;
+  margin: 2px 1px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Green */
+.pdf {
+  border-radius: 50px
+  border-color: #4CAF50;
+  color: green;
+}
+
+.pdf:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Blue */
+.code {
+  border-radius: 50px
+  border-color: #2196F3;
+  color: dodgerblue;
+}
+
+.code:hover {
+  background: #2196F3;
+  color: white;
+}
+
+/* Gray */
+.bibtex {
+  border-radius: 50px
+  border-color: #e7e7e7;
+  color: black;
+}
+
+.bibtex:hover {
+  background: #e7e7e7;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column left">
+    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        Our latest work on Regional prompting to give precise control of object placement in scenes showcased in Adobe's MAX 2024. 
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment.
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. 
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        Photographic and content type control on Adobe's FireFly Image Model 2.
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="/img/stylematch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        State of the art zero shot stylized image generation enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="/img/structurematch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+</body>
 
 
 # Research
@@ -104,7 +267,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods</h3>
+        Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods
         <br>
         <a href="https://wonwoongcho.github.io/" target="_blank">Wonwoong Cho</a>, 
         <strong>Hareesh Ravi</strong>,
@@ -118,7 +281,7 @@ hr{
         ECCV 2024
         <br>
         <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05452.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
-        <a href="" target="_blank"><button class="btn code">code</button></a>
+<!--         <a href="" target="_blank"><button class="btn code">code</button></a> -->
         <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
@@ -134,19 +297,72 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-        <h3>PREDITOR: Text Guided Image Editing with Diffusion Prior</h3>
-        
-<!--       We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. Our architecture consists of a 
-diffusion prior model that generates CLIP image embedding conditioned on a text prompt and a custom Latent Diffusion Model trained to generate images conditioned on CLIP image embedding. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. We combine this with structure preserving edits on the image decoder using existing approaches such as reverse DDIM to perform text guided image editing. Our approach, PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines qualitatively and quantitatively.  -->
-<!--         We explore text guided image editing with a Hybrid Diffusion Model (HDM) architecture similar to DALLE-2. We discover that the diffusion prior model can be used to perform text guided conceptual edits on the CLIP image embedding space without any finetuning or optimization. PRedItOR does not require additional inputs, fine-tuning, optimization or objectives and shows on par or better results than baselines.  -->
+        PREDITOR: Text Guided Image Editing with Diffusion Prior
+        <br>
+        <strong>Hareesh Ravi</strong>,
+        <a href="https://www.linkedin.com/in/sachinkelkar/" target="_blank">Sachin Kelkar</a>,
+        <a href="https://www.linkedin.com/in/midhun-harikumar-9574b524/" target="_blank">Midhun Harikumar</a>,
+        <a href="https://www.linkedin.com/in/kaleajinkya/" target="_blank">Ajinkya Kale</a>
+        <br>
+        Preprint 2023
+        <br>
+        <a href="https://arxiv.org/pdf/2302.07979.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
+<!--         <a href="" target="_blank"><button class="btn code">code</button></a> -->
+        <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn bibtex">bibtex</button></a>
+        <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <div>
-  <br>
-    <div font size="2">
-      <a href="https://arxiv.org/pdf/2302.07979.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
-      <a href="" target="_blank"><button class="btn code">code</button></a>
-      <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn bibtex">bibtex</button></a>
-      <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn arxiv">arxiv</button></a>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+<!--     <h2>PREDITOR</h2> -->
+<!--     <br><br> -->
+    <img src="/img/prior.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2">
+        Controlled and Conditional Text to Image Generation with Diffusion Prior
+        <br>
+        <a href="https://scholar.google.com/citations?hl=en&user=GBzNvsMAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Pranav Aggarwal</a>,
+        <strong>Hareesh Ravi</strong>,
+        ...,
+        <a href="https://www.linkedin.com/in/kaleajinkya/" target="_blank">Ajinkya Kale</a>
+        <br>
+        Preprint 2023
+        <br>
+        <a href="https://arxiv.org/pdf/2302.11710" target="_blank"><button class="btn pdf">pdf</button></a>
+<!--         <a href="" target="_blank"><button class="btn code">code</button></a> -->
+        <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:s4gTcPPh1m0J:scholar.google.com/&output=citation&scisdr=ClH5y-M8ELD9yKXZUHk:AFWwaeYAAAAAZxXfSHkM7pOk8HHWpyIyUe15goU&scisig=AFWwaeYAAAAAZxXfSHAgpQs1w22JBap81wWorCM&scisf=4&ct=citation&cd=-1&hl=en" target="_blank"><button class="btn bibtex">bibtex</button></a>
+        <a href="https://arxiv.org/abs/2302.11710" target="_blank"><button class="btn arxiv">arxiv</button></a>
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+<!--     <h2>PREDITOR</h2> -->
+<!--     <br><br> -->
+    <img src="/img/aaai_2022.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2">
+        Cross-Modal Coherence Model for Text to Image Retrieval
+        <br>
+        <strong>Hareesh Ravi</strong>,
+        <a href="https://www.malihealikhani.com/" target="_blank">Malihe Alikhani</a>,
+        <a href="https://klory.github.io/" target="_blank">Fangda Han</a>,
+        <a href="https://ivi.cs.rutgers.edu/" target="_blank">Mubbasir Kapadia</a>
+        <a href="https://www.linkedin.com/in/vladimir-pavlovic-a5528412/" target="_blank">Vladimir Pavlovic</a>
+        <a href="https://people.cs.rutgers.edu/~mdstone/" target="_blank">Mathew Stone</a>
+        <br>
+        AAAI 2022
+        <br>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21285" target="_blank"><button class="btn pdf">pdf</button></a>
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21285" target="_blank"><button class="btn bibtex">bibtex</button></a>
+        <a href="https://arxiv.org/abs/2109.11047" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
   <hr>
   </div>
@@ -160,26 +376,26 @@ diffusion prior model that generates CLIP image embedding conditioned on a text 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
-        <h3>AESOP: Abstract Encoding of Storied Objects and Pictures</h3>
-<!--       We introduce AESOP: a new dataset that captures the creative process associated with visual storytelling. Visual panels are composed of clip-art objects with specific attributes 
-enabling a broad range of creative expression. Using AESOP, we propose foundational storytelling tasks that are generative variants 
-of story cloze tests, to better measure the creative and causal reasoning ability required for visual storytelling. We further develop a 
-generalized story completion framework that models stories as the co-evolution of visual and textual concepts. We benchmark the proposed 
-approach with human baselines and evaluate using comprehensive qualitative and quantitative metrics. -->
-    </div>
-  <div>
-  <br>
-    <div font size="2">
-      <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn pdf">pdf</button></a>
-      <a href="" target="_blank"><button class="btn code">code</button></a>
-      <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn bibtex">bibtex</button></a>
-      <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf" target="_blank"><button class="btn arxiv">arxiv</button></a>
+        AESOP: Abstract Encoding of Storied Objects and Pictures
+        <br>
+        <strong>Hareesh Ravi</strong>,
+        <a href="https://kushalkafle.com/" target="_blank">Kushal Kafle</a>,
+        <a href="https://research.adobe.com/person/scott-cohen/" target="_blank">Scott Cohen</a>,
+        <a href="https://www.linkedin.com/in/jonathan-brandt-23b334/" target="_blank">Jonathan Brandt</a>
+        <a href="https://ivi.cs.rutgers.edu/" target="_blank">Mubbasir Kapadia</a>
+        <br>
+        ICCV 2021
+        <br>
+        <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn pdf">pdf</button></a>
+        <a href="" target="_blank"><button class="btn code">code</button></a>
+        <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn bibtex">bibtex</button></a>
+        <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
   <hr>
   </div>
 <br>
 </div>
-<div class="row">
+<!-- <div class="row">
   <div class="column left">
     <h2>Visualize Your Story</h2>
     <br><br>
@@ -203,8 +419,8 @@ and reveal that the illustrations generated by the proposed model are comparable
       <a href="" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
   <hr>
-  </div>
-<br>
+  </div> -->
+<!-- <br>
 </div>
 <div class="row">
   <div class="column left">
@@ -229,25 +445,27 @@ and reveal that the illustrations generated by the proposed model are comparable
   <hr>
   </div>
 <br>
-</div>
+</div> -->
 <div class="row">
 <br>
   <div class="column left">
-    <h2>Show Me a Story</h2>
+<!--     <h2>Show Me a Story</h2> -->
     <br><br>
     <img src="/img/cvpr_2018_arch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div font size="2">
-      Story Illustration is the problem of retrieving/generating a sequence of images, 
-      given a natural language story as input. We propose a hierarchical GRU network that learns 
-      a representation for the input story and use it to retrieve an ordered set of images from a dataset. 
-      In its core, the model is designed to explicitly model coherence between sentences in a story 
-      optimized over sequential order embedding based loss function. The performance is qualitatively and quantitatively evaluated.
-    </div>
-  <div>
-  <br>
-    <div font size="2">
+     Show Me a Story: Towards Coherent Neural Story Illustration
+        <br>
+        <strong>Hareesh Ravi</strong>,
+        <a href="https://scholar.google.com/citations?user=B6JR50gAAAAJ&hl=en&oi=sra" target="_blank">Lezi Wang</a>,
+        <a href="https://research.adobe.com/person/scott-cohen/" target="_blank">Carlos Muniz</a>,
+        <a href="https://www.cs.ubc.ca/~lsigal/" target="_blank">Leonid Sigal</a>
+        <a href="https://people.cs.rutgers.edu/~dnm/" target="_blank">Dimitris Metaxas</a>
+        <a href="https://ivi.cs.rutgers.edu/" target="_blank">Mubbasir Kapadia</a>
+        <br>
+        CVPR 2017
+        <br>
       <a href="http://http://openaccess.thecvf.com/content_cvpr_2018/papers/Ravi_Show_Me_a_CVPR_2018_paper.pdf" target="_blank"><button class="btn pdf">pdf</button></a>
       <a href="https://github.com/Hareesh-Ravi/Show-Me-A-Story" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/showMeAStory_bib.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
@@ -255,7 +473,7 @@ and reveal that the illustrations generated by the proposed model are comparable
   <hr>
   </div>
 </div>
-<div class="row">
+<!-- <div class="row">
 <br>
   <div class="column left">
     <h2>Anti-Forensic Enhancement</h2>
@@ -305,7 +523,7 @@ and reveal that the illustrations generated by the proposed model are comparable
   <hr>
   </div>
 </div>
-</body>
+</body> -->
 
 # Experience
 
