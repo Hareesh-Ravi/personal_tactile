@@ -8,16 +8,29 @@ layout: default
 # Internships
 
 
-We are looking for summer research interns to work on image generation, editing problems. Reach to mevia email or linkedin if you are interested with your CV. Here is a list of current and past summer interns
+We are looking for summer research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. Reach to me via email or linkedin if you are interested, with your CV. Here is a list of current and past summer interns.  
+<br>
+<br>
+<br>
+- 2024  
+    - [Maitreya Jitendra Patel](https://maitreyapatel.com/) (ASU) - Disentangled Representation Learning
+    - [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) (Rutgers) - Object Centric Representation Learning
+    - [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) (TU Darmstadt) - Text to Image Generation
+    - [Xianghao Kong](https://kxh001.github.io/) (UC Riverside) - Image Generation as Scene Composition
+<br>
+<br>
 
-1. [Wonwoong Cho](https://wonwoongcho.github.io/) - Controllability of Diffusion Models (ECCV 2024)
-2. [Maitreya Jitendra Patel](https://maitreyapatel.com/) - Disentangled Representation Learning
-3. [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) - Object Centric Representation Learning
-4. [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) - Text to Image Generation
-5. [Xianghao Kong](https://kxh001.github.io/) - Image Generation as Scene Composition
+- 2023  
+    - [Wonwoong Cho](https://wonwoongcho.github.io/) (Purdue) - Controllability of Diffusion Models (ECCV 2024)  
+<br>
+<br>
+<br>
+<br>
 
+# Research Projects / Industry  
+<br>
+<br>
 
-# Research Projects / Industry
 
 <p  style="color:black;"> Highlighting projects and softwares that I developed or led the development of. </p>
 
@@ -176,8 +189,16 @@ hr{
 </div>
 </body>
 
+<br>
+<br>
+<br>
+<br>
 
-# Research Publications
+# Research Publications  
+
+<br>
+<br>
+
 
 <head>
 <style>
