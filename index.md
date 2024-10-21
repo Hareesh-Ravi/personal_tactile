@@ -2,25 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![image](./assets/images/avatar.png) 
 
-[Link to another page](./another-page.html).
+I am a Senior Applied Research Scientist at Adobe's Applied Research team working on language-vision research and Generative AI. I completed my PhD from the [CS](https://www.cs.rutgers.edu/) department at the [Intelligent Visual Interfaces](https://ivi.cs.rutgers.edu/) lab in [Rutgers University](http://newbrunswick.rutgers.edu/). My PhD thesis was on Multimodal Story Comprehension, under the supervision of [Dr. Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) and [Dr. Gerard De Melo](http://gerard.demelo.org/). My research interests are on joint understanding of images/videos and abstract/narrative text with applications to multimodal story comprehension. Specificaly, story illustration, visual storytelling, image captioning and text-to-image retreival/generation. Recently, I have been working on Diffusion Models for Image generation and editing.
 
-There should be whitespace between paragraphs.
+We are looking for summer research interns to work on image generation, editing problems. Reach to mevia email or linkedin if you are interested with your CV. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Software
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Numerous works of mine have gone into Adobe's products. Here are some selected 
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Research
 
-### Header 3
+List all research publications
+
+# Experience
+
+List all activities 
+
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -119,5 +121,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The final element.
+The final element. -->
 ```
