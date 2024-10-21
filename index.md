@@ -103,8 +103,8 @@ hr{
     <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
-    <div align="justify" font size="2">
-        <h3>Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods</h3>
+    <div align="justify" font size="2" style="color:black;">
+        Enhanced Controllability of Diffusion Models via Feature Disentanglement and Realism-Enhanced Sampling Methods</h3>
         <br>
         <a href="https://wonwoongcho.github.io/" target="_blank">Wonwoong Cho</a>, 
         <strong>Hareesh Ravi</strong>,
