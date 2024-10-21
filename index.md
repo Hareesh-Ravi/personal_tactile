@@ -126,7 +126,7 @@ hr{
 <br>
 <div class="row">
   <div class="column left">
-    <img src="/assets/images/firefly2_style.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/firefly2_style.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
@@ -138,7 +138,7 @@ hr{
 </div>
 <div class="row">
   <div class="column left">
-    <img src="/assets/images/firefly2_structure.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/firefly2_structure.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
