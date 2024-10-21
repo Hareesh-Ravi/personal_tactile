@@ -115,11 +115,22 @@ hr{
 </div>
 <div class="row">
   <div class="column left">
-    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/img/firefly3.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment.
+        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a> 
+    </div>
+  <hr>
+  </div>
+<br>
+<div class="row">
+  <div class="column left">
+    <img src="./assets/images/firefly2_style.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        State of the art zero shot <a href="https://helpx.adobe.com/in/firefly/using/style-match.html" target="_blank">stylized image generation</a> enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2. Selected news articles that talk about the model and its capabilities are <a href="https://www.cgchannel.com/2023/10/adobe-launches-new-image-2-ai-model-in-firefly/" target="_blank">CG Channel</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>  
     </div>
   <hr>
   </div>
@@ -127,47 +138,36 @@ hr{
 </div>
 <div class="row">
   <div class="column left">
-    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
-  </div>
-  <div class="column right">
-    <div align="justify" font size="2" style="color:black;">
-        FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. 
-    </div>
-  <hr>
-  </div>
-<br>
-</div>
-<div class="row">
-  <div class="column left">
-    <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
-  </div>
-  <div class="column right">
-    <div align="justify" font size="2" style="color:black;">
-        Photographic and content type control on Adobe's FireFly Image Model 2.
-    </div>
-  <hr>
-  </div>
-<br>
-</div>
-<div class="row">
-  <div class="column left">
-    <img src="/img/stylematch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
-  </div>
-  <div class="column right">
-    <div align="justify" font size="2" style="color:black;">
-        State of the art zero shot stylized image generation enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2
-    </div>
-  <hr>
-  </div>
-<br>
-</div>
-<div class="row">
-  <div class="column left">
-    <img src="/img/structurematch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="/assets/images/firefly2_structure.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
         Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="./assets/images/firefly2_photo.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        Photographic and content type control on Adobe's FireFly Image Model 2 based on our research. Here is the <a href="https://helpx.adobe.com/firefly/using/whats-new/2024.html" target="_blank">release blog</a> from Adobe. 
+    </div>
+  <hr>
+  </div>
+<br>
+</div>
+<div class="row">
+  <div class="column left">
+    <img src="./assets/images/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+  </div>
+  <div class="column right">
+    <div align="justify" font size="2" style="color:black;">
+        FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. Selectd news articales that covered the model include <a href="https://www.cnet.com/tech/services-and-software/adobe-firefly-review-ai-images-for-artists-and-stock-photo-fans/" target="_blank">CNET</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>.     
     </div>
   <hr>
   </div>
@@ -263,7 +263,7 @@ hr{
   <div class="column left">
 <!--     <h2>Enhancing Controllability of Diffusion Models</h2> -->
 <!--     <br><br> -->
-    <img src="/img/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/gcdm_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
@@ -293,7 +293,7 @@ hr{
   <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
 <!--     <br><br> -->
-    <img src="/img/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/preditor_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -319,7 +319,7 @@ hr{
   <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
 <!--     <br><br> -->
-    <img src="/img/prior.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/prior.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -345,7 +345,7 @@ hr{
   <div class="column left">
 <!--     <h2>PREDITOR</h2> -->
 <!--     <br><br> -->
-    <img src="/img/aaai_2022.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/aaai_2022.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -372,7 +372,7 @@ hr{
   <div class="column left">
 <!--     <h2>AESOP</h2>
     <br><br> -->
-    <img src="/img/aesop_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/aesop_example.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2">
@@ -451,7 +451,7 @@ and reveal that the illustrations generated by the proposed model are comparable
   <div class="column left">
 <!--     <h2>Show Me a Story</h2> -->
     <br><br>
-    <img src="/img/cvpr_2018_arch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/cvpr_2018_arch.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div font size="2">
