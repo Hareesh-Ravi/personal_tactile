@@ -7,26 +7,28 @@ layout: default
  -->
 # Internships
 
-
-We are looking for summer research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. Reach to me via email or linkedin if you are interested, with your CV. Here is a list of current and past summer interns.  
-<br>
-<br>
-<br>
-- 2024  
-    [Maitreya Jitendra Patel](https://maitreyapatel.com/) (ASU) - Disentangled Representation Learning  
-    [Song Wen](https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra) (Rutgers) - Object Centric Representation Learning  
-    [Manuel Brack](https://ml-research.github.io/people/mbrack/index.html) (TU Darmstadt) - Text to Image Generation  
-    [Xianghao Kong](https://kxh001.github.io/) (UC Riverside) - Image Generation as Scene Composition  
-<br>
-<br>
-
-- 2023  
-    [Wonwoong Cho](https://wonwoongcho.github.io/) (Purdue) - Controllability of Diffusion Models (ECCV 2024)  
-<br>
-<br>
-<br>
-<br>
-
+<div align="justify" font size="2" style="color:black;">
+    We are looking for summer research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. Reach to me via email or linkedin if you are interested, with your CV. Here is a list of current and past summer interns.  
+    <br>
+    <br>
+    <strong>2024</strong>  
+    <br>
+    <a href="https://maitreyapatel.com/" target="_blank">Maitreya Jitendra Patel</a> (ASU) - Disentangled Representation Learning  
+    <br>
+    <a href="https://scholar.google.com/citations?user=yTQbz6AAAAAJ&hl=en&oi=sra" target="_blank">Song Wen</a> (Rutgers) - Object Centric Representation Learning  
+    <br>
+    <a href="https://ml-research.github.io/people/mbrack/index.html" target="_blank">Manuel Brack</a> (TU Darmstadt) - Text to Image Generation  
+    <br>
+    <a href="https://kxh001.github.io/" target="_blank">Xianghao Kong</a> (UC Riverside) - Image Generation as Scene Composition
+    <br>
+    <br>
+    <strong>2023</strong>  
+    <br>
+    <a href="https://wonwoongcho.github.io/" target="_blank">Wonwoong Cho</a> (Purdue) - Controllability of Diffusion Models (ECCV 2024) 
+    <br>
+    <br>
+    <br>
+</div>
 # Research Projects / Industry  
 <br>
 <br>
