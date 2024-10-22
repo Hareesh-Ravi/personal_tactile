@@ -8,7 +8,7 @@ layout: default
 # Internships
 
 <div align="justify" font size="2" style="color:black;">
-    We are looking for summer research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. Reach to me via email or linkedin if you are interested, with your CV. Here is a list of current and past summer interns.  
+    We are always on the lookout for summer PhD research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. If you are interested, reach out to me via email or linkedin with your CV. Below is a list of current and past summer interns.  
     <br>
     <br>
     <strong>2024</strong>  
@@ -30,7 +30,6 @@ layout: default
     <br>
 </div>
 # Research Projects / Industry  
-<br>
 <br>
 <p  style="color:black;"> Highlighting projects and softwares that I developed or led the development of. </p>
 
@@ -126,10 +125,10 @@ hr{
   <hr>
   </div>
 <br> -->
-</div>
+<!-- </div> -->
 <div class="row">
   <div class="column left">
-    <img src="/img/firefly3.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
+    <img src="./assets/images/firefly3.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
@@ -137,6 +136,7 @@ hr{
     </div>
   <hr>
   </div>
+<br>
 <br>
 <div class="row">
   <div class="column left">
@@ -148,6 +148,7 @@ hr{
     </div>
   <hr>
   </div>
+<br>
 <br>
 </div>
 <div class="row">
@@ -161,6 +162,7 @@ hr{
   <hr>
   </div>
 <br>
+<br>
 </div>
 </div>
 <div class="row">
@@ -173,6 +175,7 @@ hr{
     </div>
   <hr>
   </div>
+<br>
 <br>
 </div>
 <div class="row">
@@ -188,18 +191,12 @@ hr{
 <br>
 </div>
 </body>
-
 <br>
 <br>
 <br>
-<br>
-
 # Research Publications  
-
 <br>
 <br>
-
-
 <head>
 <style>
 hr{
