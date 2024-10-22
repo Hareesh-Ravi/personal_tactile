@@ -32,8 +32,6 @@ layout: default
 # Research Projects / Industry  
 <br>
 <br>
-
-
 <p  style="color:black;"> Highlighting projects and softwares that I developed or led the development of. </p>
 
 <head>
@@ -117,7 +115,7 @@ hr{
 </style>
 </head>
 <body>
-<div class="row">
+<!-- <div class="row">
   <div class="column left">
     <img src="/img/firefly2.png" border="0" alt="avatar" align="left" style="border: none; float: left; border-radius:0%;"> 
   </div>
@@ -127,7 +125,7 @@ hr{
     </div>
   <hr>
   </div>
-<br>
+<br> -->
 </div>
 <div class="row">
   <div class="column left">
@@ -135,7 +133,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a> 
+        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a>, <a href="https://venturebeat.com/ai/adobe-launches-firefly-3-with-full-ai-image-generation-in-photoshop/" target="_blank">Venture Beat</a> and <a href="https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image" target="_blank">The Verge</a>.
     </div>
   <hr>
   </div>
@@ -158,7 +156,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2
+        Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2. Structure and Style match both were rated as best in class by <a href="https://www.zdnet.com/article/best-ai-image-generator/ZDNet" target="_blank">ZDNet</a>. 
     </div>
   <hr>
   </div>
