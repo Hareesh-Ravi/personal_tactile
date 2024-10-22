@@ -132,7 +132,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a>, <a href="https://venturebeat.com/ai/adobe-launches-firefly-3-with-full-ai-image-generation-in-photoshop/" target="_blank">Venture Beat</a> and <a href="https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image" target="_blank">The Verge</a>.
+        Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a>, <a href="https://venturebeat.com/ai/adobe-launches-firefly-3-with-full-ai-image-generation-in-photoshop/" target="_blank">Venture Beat</a> and <a href="https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image" target="_blank">The Verge</a>. I was the technical lead of this project and contributed to the core architecture, training and inference improvements. 
     </div>
   <hr>
   </div>
@@ -144,7 +144,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        State of the art zero shot <a href="https://helpx.adobe.com/in/firefly/using/style-match.html" target="_blank">stylized image generation</a> enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2. Selected news articles that talk about the model and its capabilities are <a href="https://www.cgchannel.com/2023/10/adobe-launches-new-image-2-ai-model-in-firefly/" target="_blank">CG Channel</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>  
+        State of the art zero shot <a href="https://helpx.adobe.com/in/firefly/using/style-match.html" target="_blank">stylized image generation</a> enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2. Selected news articles that talk about the model and its capabilities are <a href="https://www.cgchannel.com/2023/10/adobe-launches-new-image-2-ai-model-in-firefly/" target="_blank">CG Channel</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>. The feature is based on my patent on zero-shot stylized image generation on Diffusion models.   
     </div>
   <hr>
   </div>
@@ -157,7 +157,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2. Structure and Style match both were rated as best in class by <a href="https://www.zdnet.com/article/best-ai-image-generator/ZDNet" target="_blank">ZDNet</a>. 
+        Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2. Structure and Style match both were rated as best in class by <a href="https://www.zdnet.com/article/best-ai-image-generator/ZDNet" target="_blank">ZDNet</a>. I was the technical lead of this project. 
     </div>
   <hr>
   </div>
@@ -171,7 +171,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        Photographic and content type control on Adobe's FireFly Image Model 2 based on our research. Here is the <a href="https://helpx.adobe.com/firefly/using/whats-new/2024.html" target="_blank">release blog</a> from Adobe. 
+        Photographic and content type control on Adobe's FireFly Image Model 2 based on our research. Here is the <a href="https://helpx.adobe.com/firefly/using/whats-new/2024.html" target="_blank">release blog</a> from Adobe. Project was part of the FireFly 2 project that I co-led.
     </div>
   <hr>
   </div>
@@ -184,7 +184,7 @@ hr{
   </div>
   <div class="column right">
     <div align="justify" font size="2" style="color:black;">
-        FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. Selectd news articales that covered the model include <a href="https://www.cnet.com/tech/services-and-software/adobe-firefly-review-ai-images-for-artists-and-stock-photo-fans/" target="_blank">CNET</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>.     
+        FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. Selectd news articales that covered the model include <a href="https://www.cnet.com/tech/services-and-software/adobe-firefly-review-ai-images-for-artists-and-stock-photo-fans/" target="_blank">CNET</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>. I contributed to the core architectural design choices that improved realism, text to image alignment and aesthetics and was the co technical lead of the project.      
     </div>
   <hr>
   </div>
