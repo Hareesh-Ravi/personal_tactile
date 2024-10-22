@@ -28,6 +28,7 @@ layout: default
     <br>
     <br>
     <br>
+    <hr>
 </div>
 # Research Projects / Industry  
 <br>
@@ -188,12 +189,13 @@ hr{
   
   </div>
 <br>
+<hr>
 </div>
 </body>
 <br>
 <br>
 <br>
-# Research Publications  
+# Selected Research Publications  
 <br>
 <head>
 <style>
@@ -438,6 +440,7 @@ hr{
     </div>
   
   </div>
+<hr>
 </div>
 </body>
 <br>
@@ -516,6 +519,7 @@ hr{
     <i>Adviser: <a href="https://www.iiitd.ac.in/subramanyam" target="_blank">Dr. A. V. Subramanyam</a></i><br>
     </div>
   </div>
+<hr>
 </div>
 </body>
 <br>
@@ -593,6 +597,7 @@ hr{
     Intro to Discrete Structures
     </div>
   </div>
+<hr>
 </div>
 </body>
 <br>
