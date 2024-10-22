@@ -442,9 +442,11 @@ hr{
   </div>
 </div>
 </body>
-    
+<br>
+<br>  
 # Work Experience 
-
+<br>
+<br>
 <head>
 <style>
 * {
@@ -519,9 +521,11 @@ hr{
   </div>
 </div>
 </body>
-
+<br>
+<br>
 # Teaching Experience
-
+<br>
+<br>
 <head>
 <style>
 * {
@@ -595,9 +599,11 @@ hr{
   </div>
 </div>
 </body>
-
+<br>
+<br>
 # Professional Experience
-
+<br>
+<br>
 <head>
 <style>
 * {
