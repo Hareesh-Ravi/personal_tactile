@@ -28,8 +28,8 @@ layout: default
     <br>
     <br>
     <br>
-    <hr>
 </div>
+<hr>
 # Research Projects / Industry  
 <br>
 <p  style="color:black;"> Highlighting projects and softwares that I developed or led the development of. </p>
@@ -189,12 +189,12 @@ hr{
   
   </div>
 <br>
-<hr>
 </div>
 </body>
 <br>
 <br>
 <br>
+<hr>
 # Selected Research Publications  
 <br>
 <head>
@@ -440,11 +440,11 @@ hr{
     </div>
   
   </div>
-<hr>
 </div>
 </body>
 <br>
 <br>  
+<hr>
 # Work Experience 
 <br>
 <head>
@@ -519,11 +519,11 @@ hr{
     <i>Adviser: <a href="https://www.iiitd.ac.in/subramanyam" target="_blank">Dr. A. V. Subramanyam</a></i><br>
     </div>
   </div>
-<hr>
 </div>
 </body>
 <br>
 <br>
+<hr>
 # Teaching Experience
 <br>
 <head>
@@ -597,11 +597,11 @@ hr{
     Intro to Discrete Structures
     </div>
   </div>
-<hr>
 </div>
 </body>
 <br>
 <br>
+<hr>
 # Professional Experience
 <br>
 <head>
