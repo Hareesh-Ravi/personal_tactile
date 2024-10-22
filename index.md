@@ -6,7 +6,7 @@ layout: default
 <!-- I am a Senior Applied Research Scientist at Adobe's Applied Research team working on language-vision research and Generative AI. I completed my PhD from the [CS](https://www.cs.rutgers.edu/) department at the [Intelligent Visual Interfaces](https://ivi.cs.rutgers.edu/) lab in [Rutgers University](http://newbrunswick.rutgers.edu/). My PhD thesis was on Multimodal Story Comprehension, under the supervision of [Dr. Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) and [Dr. Gerard De Melo](http://gerard.demelo.org/). My research interests are on joint understanding of images/videos and abstract/narrative text with applications to multimodal story comprehension. Specificaly, story illustration, visual storytelling, image captioning and text-to-image retreival/generation. Recently, I have been working on Diffusion Models for Image generation and editing.
  -->
 # Internships
-
+<br>
 <div align="justify" font size="2" style="color:black;">
     We are always on the lookout for summer PhD research interns to work on text to image generation, interactive and multi-turn editing and Multimodal models. If you are interested, reach out to me via email or linkedin with your CV. Below is a list of current and past summer interns.  
     <br>
@@ -648,3 +648,183 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element. -->
 ```
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.left {
+  width: 5%;
+}
+
+.right {
+  width: 95%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+<h2>Work Experience</h2>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <div>
+    <a href="https://research.adobe.com/" imageanchor="1" target="_blank">
+	<img alt="https://research.adobe.com/" border="0" height="100" src="/img/adobe_research.jpg" width="100" style="float: left; margin: 10px 10px 10px 0px;border-radius: 0%;">
+	</a>
+    </div>
+	<div font size="3">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>May, 2020 - Aug, 2020</i><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Deep Learning Research Intern</b><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Advisers: <a href="https://research.adobe.com/person/scott-cohen/" target="_blank">Dr. Scott Cohen</a>, <a href="https://kushalkafle.com//" target="_blank">Dr. Kushal Kafle</a>, <a href="https://research.adobe.com/person/jonathan-brandt/" target="_blank">Dr. Jonathan Brandt</a></i><br>
+    </font></div>
+   </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+   <hr>
+    <div>
+    <a href="https://la.disneyresearch.com/" imageanchor="1" target="_blank">
+	<img alt="https://la.disneyresearch.com/" border="0" height="100" src="/img/drla.jpg" width="100" style="float: left; margin: 10px 10px 10px 0px;border-radius: 0%;">
+	</a>
+    </div>
+	<div font size="3">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>June, 2017 - Sep, 2017</i><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Project Associate Intern</b><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Adviser: <a href="https://ivi.cs.rutgers.edu/" target="_blank">Dr. Mubbasir Kapadia</a></i><br>
+    </font></div>
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div>
+    <a href="https://www.iiitd.ac.in/" imageanchor="1" target="_blank">
+	<img alt="https://www.iiitd.ac.in/" border="0" height="100" src="/img/22-iiit-delhi.jpg" width="100" style="float: left; margin: 10px 10px 10px 0px;border-radius: 0%;">
+	</a>
+    </div>
+	<div font size="3">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Nov, 2013 - June, 2016</i><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Research Associate</b><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Adviser: <a href="https://www.iiitd.ac.in/subramanyam" target="_blank">Dr. A. V. Subramanyam</a></i><br>
+    </font></div>
+  </div>
+</div>
+<div><hr></div>
+<h2>Teaching Experience</h2>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <div font size="3">
+    <i>Teaching Assistant (Fall 2016)</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intro to Discrete Structures
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Teaching Assistant (Spring 2017)</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principles of Programming Languages
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Teaching Assistant (Fall 2017)</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Topics in AI - Data StoryTelling
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Teaching Assistant (Spring 2021)</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intro to Discrete Structures
+    </div>
+  </div>
+</div>
+<div><hr></div>
+<h2>Professional Experience</h2>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Program Committee</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AAAI 2022, CVPR 2022, WACV 2022
+  </div>
+</div>
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Program Committee</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NAACL 2021, ACL 2021
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Reviewer</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EMNLP 2020
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column left" style="background-color:#fff;">
+    <h2></h2>
+    <p></p>
+  </div>
+  <div class="column right" style="background-color:#fff;">
+    <hr>
+    <div font size="3">
+    <i>Reviewer</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICDM 2020
+    </div>
+  </div>
+</div>
