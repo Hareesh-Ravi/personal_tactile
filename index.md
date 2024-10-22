@@ -122,7 +122,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         Our latest work on Regional prompting to give precise control of object placement in scenes showcased in Adobe's MAX 2024. 
     </div>
-  <hr>
+  
   </div>
 <br> -->
 <!-- </div> -->
@@ -134,7 +134,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         Adobe's latest text to image generative model, FireFly Image Model 3 with higher quality and text to image alignment. News coverage in <a href="https://www.techradar.com/computing/adobe-firefly-s-latest-image-model-looks-like-a-generational-leap-and-i-can-t-wait-to-try-it" target="_blank">tech radar</a>, <a href="https://www.pcmag.com/reviews/adobe-firefly" target="_blank">PC Mag</a>, <a href="https://venturebeat.com/ai/adobe-launches-firefly-3-with-full-ai-image-generation-in-photoshop/" target="_blank">Venture Beat</a> and <a href="https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image" target="_blank">The Verge</a>. I was the technical lead of this project and contributed to the core architecture, training and inference improvements. 
     </div>
-  <hr>
+  
   </div>
 <br>
 <br>
@@ -146,7 +146,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         State of the art zero shot <a href="https://helpx.adobe.com/in/firefly/using/style-match.html" target="_blank">stylized image generation</a> enables generating an image conditioned on text prompt and a style reference image released in FireFly Image Model 2. Selected news articles that talk about the model and its capabilities are <a href="https://www.cgchannel.com/2023/10/adobe-launches-new-image-2-ai-model-in-firefly/" target="_blank">CG Channel</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>. The feature is based on my patent on zero-shot stylized image generation on Diffusion models.   
     </div>
-  <hr>
+  
   </div>
 <br>
 <br>
@@ -159,7 +159,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         Structure Match enables generating an image conditioned on a text prompt and a reference image to match the structure released in FireFly Image Model 2. Structure and Style match both were rated as best in class by <a href="https://www.zdnet.com/article/best-ai-image-generator/ZDNet" target="_blank">ZDNet</a>. I was the technical lead of this project. 
     </div>
-  <hr>
+  
   </div>
 <br>
 <br>
@@ -173,7 +173,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         Photographic and content type control on Adobe's FireFly Image Model 2 based on our research. Here is the <a href="https://helpx.adobe.com/firefly/using/whats-new/2024.html" target="_blank">release blog</a> from Adobe. Project was part of the FireFly 2 project that I co-led.
     </div>
-  <hr>
+  
   </div>
 <br>
 <br>
@@ -186,7 +186,7 @@ hr{
     <div align="justify" font size="2" style="color:black;">
         FireFly Image Model 2, Adobe's text to image generative model that gives high quality, aesthetics and reaslism and trained only on copyrighted data. Selectd news articales that covered the model include <a href="https://www.cnet.com/tech/services-and-software/adobe-firefly-review-ai-images-for-artists-and-stock-photo-fans/" target="_blank">CNET</a>, <a href="https://techcrunch.com/2023/10/10/adobe-firefly-can-now-generate-more-realistic-images/" target="_blank">Tech crunch</a>, <a href="https://aibusiness.com/nlp/adobe-rolls-out-firefly-2-embeds-ai-across-its-apps" target="_blank">AI Business</a>. I contributed to the core architectural design choices that improved realism, text to image alignment and aesthetics and was the co technical lead of the project.      
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -304,7 +304,7 @@ hr{
         <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://arxiv.org/abs/2302.14368" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -330,7 +330,7 @@ hr{
         <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://arxiv.org/abs/2302.07979" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -356,7 +356,7 @@ hr{
         <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:s4gTcPPh1m0J:scholar.google.com/&output=citation&scisdr=ClH5y-M8ELD9yKXZUHk:AFWwaeYAAAAAZxXfSHkM7pOk8HHWpyIyUe15goU&scisig=AFWwaeYAAAAAZxXfSHAgpQs1w22JBap81wWorCM&scisf=4&ct=citation&cd=-1&hl=en" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://arxiv.org/abs/2302.11710" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -383,7 +383,7 @@ hr{
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/21285" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://arxiv.org/abs/2109.11047" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -410,7 +410,7 @@ hr{
         <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.html" target="_blank"><button class="btn bibtex">bibtex</button></a>
         <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ravi_AESOP_Abstract_Encoding_of_Stories_Objects_and_Pictures_ICCV_2021_paper.pdf" target="_blank"><button class="btn arxiv">arxiv</button></a>
     </div>
-  <hr>
+  
   </div>
 <br>
 </div>
@@ -438,7 +438,7 @@ hr{
       <a href="https://github.com/Hareesh-Ravi/Show-Me-A-Story" target="_blank"><button class="btn code">code</button></a>
       <a href="/bib/showMeAStory_bib.bib" target="_blank"><button class="btn bibtex">bibtex</button></a>
     </div>
-  <hr>
+  
   </div>
 </div>
 </body>
@@ -482,9 +482,9 @@ hr{
   </div>
   <div class="column right" >
     <div font size="2" style="color:black;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>May, 2020 - Aug, 2020</i><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Deep Learning Research Intern</b><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Advisers: <a href="https://research.adobe.com/person/scott-cohen/" target="_blank">Dr. Scott Cohen</a>, <a href="https://kushalkafle.com//" target="_blank">Dr. Kushal Kafle</a>, <a href="https://research.adobe.com/person/jonathan-brandt/" target="_blank">Dr. Jonathan Brandt</a></i><br>
+    <i>May, 2020 - Aug, 2020</i><br>
+    <b>Deep Learning Research Intern</b><br>
+    <i>Advisers: <a href="https://research.adobe.com/person/scott-cohen/" target="_blank">Dr. Scott Cohen</a>, <a href="https://kushalkafle.com//" target="_blank">Dr. Kushal Kafle</a>, <a href="https://research.adobe.com/person/jonathan-brandt/" target="_blank">Dr. Jonathan Brandt</a></i><br>
     </div>
    </div>
 </div>
@@ -495,11 +495,11 @@ hr{
       </a>
   </div>
   <div class="column right" >
-   <hr>
+   
     <div font size="2" style="color:black;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>June, 2017 - Sep, 2017</i><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Project Associate Intern</b><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Adviser: <a href="https://ivi.cs.rutgers.edu/" target="_blank">Dr. Mubbasir Kapadia</a></i><br>
+    <i>June, 2017 - Sep, 2017</i><br>
+    <b>Project Associate Intern</b><br>
+    <i>Adviser: <a href="https://ivi.cs.rutgers.edu/" target="_blank">Dr. Mubbasir Kapadia</a></i><br>
     </div>
   </div>
 </div>
@@ -510,11 +510,11 @@ hr{
       </a>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Nov, 2013 - June, 2016</i><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Research Associate</b><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Adviser: <a href="https://www.iiitd.ac.in/subramanyam" target="_blank">Dr. A. V. Subramanyam</a></i><br>
+    <i>Nov, 2013 - June, 2016</i><br>
+    <b>Research Associate</b><br>
+    <i>Adviser: <a href="https://www.iiitd.ac.in/subramanyam" target="_blank">Dr. A. V. Subramanyam</a></i><br>
     </div>
   </div>
 </div>
@@ -566,7 +566,7 @@ hr{
     <i>Teaching Assistant (Spring 2017)</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      Principles of Programming Languages
     </div>
@@ -577,7 +577,7 @@ hr{
     <i>Teaching Assistant (Fall 2017)</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      Topics in AI - Data StoryTelling
     </div>
@@ -588,7 +588,7 @@ hr{
     <i>Teaching Assistant (Spring 2021)</i> 
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
     Intro to Discrete Structures
     </div>
@@ -632,7 +632,7 @@ hr{
     <i>Program Committee</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      CVPR 2024
   </div>
@@ -643,7 +643,7 @@ hr{
     <i>Program Committee</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      AAAI 2023, CVPR 2023
   </div>
@@ -654,7 +654,7 @@ hr{
     <i>Program Committee</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      AAAI 2022, CVPR 2022, WACV 2022, ECCV 2022
   </div>
@@ -665,7 +665,7 @@ hr{
     <i>Program Committee</i>
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
      NAACL 2021, ACL 2021
   </div>
@@ -676,7 +676,7 @@ hr{
     <i>Reviewer</i> 
   </div>
   <div class="column right" >
-    <hr>
+    
     <div font size="2" style="color:black;">
     EMNLP 2020
     </div>
