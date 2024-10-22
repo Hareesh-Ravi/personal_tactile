@@ -32,7 +32,6 @@ layout: default
 # Research Projects / Industry  
 <br>
 <p  style="color:black;"> Highlighting projects and softwares that I developed or led the development of. </p>
-
 <head>
 <style>
 hr{
@@ -195,7 +194,6 @@ hr{
 <br>
 <br>
 # Research Publications  
-<br>
 <br>
 <head>
 <style>
@@ -446,7 +444,6 @@ hr{
 <br>  
 # Work Experience 
 <br>
-<br>
 <head>
 <style>
 * {
@@ -525,7 +522,6 @@ hr{
 <br>
 # Teaching Experience
 <br>
-<br>
 <head>
 <style>
 * {
@@ -602,7 +598,6 @@ hr{
 <br>
 <br>
 # Professional Experience
-<br>
 <br>
 <head>
 <style>
